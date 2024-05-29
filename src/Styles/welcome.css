@@ -1,0 +1,66 @@
+.navigation nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem 2rem;
+}
+.navigation nav .nav-icon{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;   
+}
+.navigation nav .nav-icon span{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-right: 5rem;
+}
+.navigation nav .nav-icon span .bi{
+    color: grey;
+    font-size: 2rem;
+}
+.navigation nav .nav-icon span a{
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    border-radius: 50px;
+    padding: .5rem .7rem;
+}
+.navigation nav .nav-icon button{
+    border: none;
+    border-radius: 15px;
+    padding: 0.1rem 1.5rem;
+    background-color: rgb(255, 153, 0);
+}
+  .welcome-btn{
+    margin-left: 11.5rem;
+    margin-bottom: 1.5rem;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 10px;
+    background-color: black;
+    color: white; 
+}
+.discussion-section{
+    background-color: plum;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    border-radius: 10px;
+}
+.discussion-section h2{
+    margin-top: 1rem;
+}
+.discussion-section .discussion-btn{
+    margin: 2rem 0;
+    background-color: rgba(4, 121, 255, 0.829);
+    border: none;
+    border-radius: 15px;
+    padding: 0.2rem 1rem;
+    color: white;
+}
+.footer{
+    margin-top: 1rem;
+}

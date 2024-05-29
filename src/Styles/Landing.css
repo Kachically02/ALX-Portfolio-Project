@@ -1,0 +1,88 @@
+
+.container nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+.container nav ul{
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+.container nav ul li .login{
+    border: none;
+    padding: 0.2rem 1.5rem;
+    border-radius: 20px;
+}
+.container nav ul li .reg{
+    border: none;
+    padding: 0.2rem 1.5rem;
+    border-radius: 20px;  
+    background-color: rgba(5, 102, 230, 0.767);
+    color: white;
+}
+.container-main{
+    margin-top: 5rem;
+}
+.container .desc .ellipse1{
+    width: 1.5rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    
+}
+.container .desc .ellipse{
+    width: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    margin-left: 25rem;
+    
+}
+.container .desc h2{
+    font-style: italic;
+    font-weight: bold;
+    word-spacing: 10px;
+}
+.container .desc span{
+    color: orangered;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .desc p{
+    font-size: small;
+    word-spacing: 4px;
+    font-weight: 400;
+}
+.container .bar{
+    display: flex;
+    flex-direction: row;
+    margin-top: 6rem;
+    
+}
+.container .bar .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 2px solid rgb(177, 172, 172);
+}
+.container .bar .box:last-child{
+    border: none;
+}
+.container .bar .box .number{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.container .bar .box .text{
+    padding: .5rem;
+}
+.container .Landingpageimage-container{
+    display: flex;
+    flex-direction: column;
+}
+.container .Landingpageimage-container img{
+    width: 600px;
+    height: 300px;
+}
+ .footer{
+    margin-left: 2rem;
+}

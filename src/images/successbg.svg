@@ -1,0 +1,19 @@
+<svg width="1443" height="1029" viewBox="0 0 1443 1029" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_350_70)">
+<ellipse cx="724.69" cy="824.982" rx="255.745" ry="119.655" transform="rotate(179.839 724.69 824.982)" fill="#FF6B00"/>
+<ellipse cx="1082.82" cy="754.103" rx="327.793" ry="161.215" transform="rotate(179.839 1082.82 754.103)" fill="#EE82EE"/>
+<ellipse cx="221.726" cy="416.649" rx="221.726" ry="416.649" transform="matrix(-0.356461 -0.93431 0.943934 -0.330135 159.781 1027.59)" fill="#00E0FF"/>
+<ellipse cx="929.439" cy="334.367" rx="255.745" ry="332.934" transform="rotate(179.839 929.439 334.367)" fill="#FFE500"/>
+<ellipse cx="667.969" cy="335.101" rx="255.745" ry="332.934" transform="rotate(179.839 667.969 335.101)" fill="#FF6B00"/>
+<ellipse cx="322.523" cy="336.07" rx="255.745" ry="332.934" transform="rotate(179.839 322.523 336.07)" fill="#FFE500"/>
+<ellipse cx="323.299" cy="612.829" rx="255.745" ry="332.934" transform="rotate(179.839 323.299 612.829)" fill="#FF6B00"/>
+<ellipse cx="1185.18" cy="333.65" rx="255.745" ry="332.934" transform="rotate(179.839 1185.18 333.65)" fill="#EE82EE"/>
+</g>
+<defs>
+<filter id="filter0_f_350_70" x="-133.223" y="-199.283" width="1774.15" height="1345.05" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_350_70"/>
+</filter>
+</defs>
+</svg>
