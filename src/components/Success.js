@@ -10,8 +10,8 @@ function Success() {
        <a href="/"> <img src={Applogo} className="logo" alt="" /></a>
         <div className="container">
           <div className="row">
-            <div className="col-6"></div>
-            <div className="col-6 box">
+            <div className="col-sm-12 col-lg-6"></div>
+            <div className="col-sm-12 col-lg-6">
               <img src={successimg} alt="" />
               <h3>Success</h3>
               <p>Your account has been successfully registered</p>

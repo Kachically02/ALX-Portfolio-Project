@@ -7,7 +7,7 @@ import Landingpageimg2 from "../images/Landingpageimg2.svg";
 
 function LandingPage() {
   return (
-    <div>
+    <div className="page-container">
     <div className="container">
       <nav>
         <a href="/"><img src={Applogo} alt="" /></a>

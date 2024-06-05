@@ -40,7 +40,7 @@ function Welcomepage() {
               platform where opportunities abound for everyone. It’s just a
               click away.
             </p>
-            <button className="discussion-btn">Join Discussion</button>
+            <a href="/platform"><button className="discussion-btn">Join Discussion</button></a>
           </div>
         </div>
       </div>

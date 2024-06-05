@@ -8,8 +8,8 @@ function Registerpage() {
     <a href="/"><img src={Applogo} alt="" /></a>
       <div className="container">
         <div className="row">
-          <div className="col-6"></div>
-          <div className="col-6">
+          <div className="col-sm-12 col-lg-6"></div>
+          <div className="col-sm-12 col-lg-6">
             <div className="form-container">
             <div className="box">
               <form>
