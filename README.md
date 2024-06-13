@@ -11,17 +11,18 @@ Node.js and npm (or yarn) installed on your system.
 1. Clone the Repository:
 
 - Bash
-git clone https://github.com/Kachically02/ALX-Portfolio-Project
+`git clone https://github.com/Kachically02/ALX-Portfolio-Project`
 
 content_copy
+
 2. Install Dependencies:
 
 Navigate to the project directory and install dependencies using either npm or yarn:
 
 Bash
-npm install  # or yarn install
-Use code with caution.
-content_copy
+`npm install`  # or `yarn install`
+
+
 3. Configure Database (Optional):
 
 If you plan to run the application locally and connect to your own MongoDB instance, you'll need to configure the database connection details in the project's configuration files. Refer to the project's documentation (if available) for specific instructions on this step.
