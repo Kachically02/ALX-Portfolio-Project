@@ -19,25 +19,23 @@ content_copy
 
 Navigate to the project directory and install dependencies using either npm or yarn:
 
-Bash
+- Bash
 `npm install`  # or `yarn install`
 
 
 3. Configure Database (Optional):
 
-If you plan to run the application locally and connect to your own MongoDB instance, you'll need to configure the database connection details in the project's configuration files. Refer to the project's documentation (if available) for specific instructions on this step.
+  If you plan to run the application locally and connect to your own MongoDB instance, you'll need to configure the database connection details in the project's configuration files. Refer to the project's documentation (if available) for specific instructions on this step.
 
 4. Start the Development Server:
 
-Once dependencies are installed and (if applicable) database configuration is complete, you can start the development server using:
+   Once dependencies are installed and (if applicable) database configuration is complete, you can start the development server using:
 
-Bash
-npm start  # or yarn start
-Use code with caution.
-content_copy
+- Bash
+  `npm start  # or yarn start`
+
 This will typically start the server on a default port (e.g., http://localhost:3000). You can then access the application in your web browser.
 
-- Note: These are general instructions, and the specific commands might vary depending on your project setup. It's recommended to consult the project's codebase or documentation for any additional configuration steps.
 
 ### Usage
 
@@ -58,6 +56,7 @@ The provided deployment link is for demonstration purposes only.
 Contributing (Optional)
 
 Pull requests and contributions are welcome! (Include specific guidelines if applicable)
+
 ## License
 
 Specify the license under which your project is distributed (e.g., MIT, Apache). Include the license text itself or a link to the license file.
